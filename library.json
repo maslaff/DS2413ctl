@@ -1,0 +1,28 @@
+{
+  "name": "DS2413ctl",
+  "keywords": "onewire, 1-wire, bus, switch, 2ch",
+  "description": "Arduino Library for DS2413+",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/maslaff/DS2413ctl.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "MaSlaff",
+      "email": "maslaff@ya.ru",
+      "url": "none",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+    "name": "OneWire",
+    "authors": "Paul Stoffregen",
+    "frameworks": "arduino"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
